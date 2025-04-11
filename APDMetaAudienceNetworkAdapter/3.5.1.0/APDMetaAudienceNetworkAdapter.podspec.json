@@ -27,7 +27,7 @@
   ],
   "dependencies": {
     "FBAudienceNetwork": [
-      "= 6.16.0"
+      "= 6.17.1"
     ],
     "Appodeal": [
       "3.5.1"
